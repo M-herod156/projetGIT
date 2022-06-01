@@ -13,3 +13,5 @@ x = 'hello world'
 print(x)
 
 print("Bonjour tous le monde")
+
+print("Merci pour ta compassion, a bonté, ta fidélite  amen")
