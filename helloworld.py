@@ -11,3 +11,5 @@
 
 x = 'hello world'
 print(x)
+
+print("Bonjour tous le monde")
